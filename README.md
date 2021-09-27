@@ -28,4 +28,4 @@ Click the link below to go to the course page:
 
 For more information about the course syllabus in detail, click [here](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Full+Stack+JavaScript+Developer+Nanodegree+Program+Syllabus.pdf)
 
-This repo is protected under [the MIT License.](https://github.com/rickyfelix19/leaping-rabbit/edit/main/license.md)
+This repo is protected under [the MIT License.](https://github.com/rickyfelix19/leaping-rabbit/blob/main/LICENSE)
