@@ -7,7 +7,7 @@ Click the link below to go to the course page:
 
 ---
 
-## Table of Contents:
+## Content Materials:
 
 1. [Backend Development using Node.js for Image Processing API]()
 2. [Creating an API using PostgreSQL and Express to Build a Storefront Backend]()
