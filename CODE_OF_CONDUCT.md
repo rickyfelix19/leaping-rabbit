@@ -1,3 +1,7 @@
+To understand why Code of Conduct is needed for Open Souce Software, click the link [here](https://opensource.guide/code-of-conduct/)
+
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
