@@ -8,13 +8,14 @@ Click the link below to go to the course page:
 ---
 
 ## Content Materials:
+click the link below to navigate through the materials:
 
 1. [Backend Development using Node.js for Image Processing API]()
 2. [Creating an API using PostgreSQL and Express to Build a Storefront Backend]()
 3. [Angular Fundamentals to build Online Store]()
 4. [Deployment Courses to Host My Full Stack Application]()
 
-### Technology used:
+### Technology Taught:
 
 - TypeScript
 - Unit Testing using Jasmine
