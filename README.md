@@ -3,6 +3,7 @@
 A repo to keep track with everything I learned for Udacity `Full Stack JavaScript Developer`
 
 Click the link below to go to the course page:
+
 > https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067
 
 ---
