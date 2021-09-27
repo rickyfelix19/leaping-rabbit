@@ -1,7 +1,6 @@
 # leaping-rabbit
 
 A repo to keep track with everything I learned for Udacity `Full Stack JavaScript Developer`
-
 Click the link below to go to the course page:
 > https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067
 
@@ -30,3 +29,5 @@ click the link below to navigate through the materials:
 For more information about the course syllabus in detail, click [here](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Full+Stack+JavaScript+Developer+Nanodegree+Program+Syllabus.pdf)
 
 This repo is protected under [the MIT License.](https://github.com/rickyfelix19/leaping-rabbit/blob/main/LICENSE) and [Convenor Code of Conduct](https://github.com/rickyfelix19/leaping-rabbit/blob/main/CODE_OF_CONDUCT.md)
+
+Click here to read my [journal]() to read the problems I encountered for each chapters
